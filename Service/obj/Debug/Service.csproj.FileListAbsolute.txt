@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\bin\Debug\Service.dll
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\bin\Debug\Service.pdb
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\bin\Debug\Entitys.dll
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\bin\Debug\Entitys.pdb
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\obj\Debug\Service.dll
+C:\Users\Administrator\Source\Repos\WebApplication1\Service\obj\Debug\Service.pdb
